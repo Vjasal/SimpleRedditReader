@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SimpleRedditReader_SimpleRedditReaderUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SimpleRedditReader_SimpleRedditReaderUITests
+@end

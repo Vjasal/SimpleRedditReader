@@ -1,0 +1,17 @@
+excluded:
+  - Carthage
+  - Pods
+
+disabled_rules:
+  - cyclomatic_complexity
+  - todo
+  - type_name
+  - trailing_whitespace
+  - type_body_length
+
+line_length: 200
+
+force_cast: warning
+force_try: warning
+identifier_name:
+  allowed_symbols: "_"
